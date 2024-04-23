@@ -16,8 +16,8 @@ class HeadHunterAPI(BaseAPI):
             "page": 0,
             "archived": False,
         }
-        
+
     def get_vacancies(self):
-        """Ищет вакансии согласно запроса."""
+        """Подбирает вакансии согласно запроса."""
         self.vacancies = requests.get(url=self.__url, params=self.params)
         return self.vacancies.json()

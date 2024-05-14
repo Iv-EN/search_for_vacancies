@@ -1,6 +1,4 @@
-from pathlib import Path
-
-PATH_FILE_VACANIES = Path(__file__).parent.joinpath("vacancies.json")
+PATH_FILE_VACANIES = "data/vacancies.json"
 """Путь до файла с вакансиями."""
 HH_VACANCIES_URL = "https://api.hh.ru/vacancies"
 """Базовый URL для поиска вакансий."""

@@ -1,1042 +1,862 @@
 [
     {
-        "name": "Менеджер по продажам",
-        "salary": {
-            "from": 200000,
-            "to": 600000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98132954",
-        "employer": "ARMA GRADE"
-    },
-    {
-        "name": "Продавец-консультант adidas, ТРЦ \"Forum\"",
+        "name": "Junior Python разработчик",
         "salary": null,
-        "url": "https://hh.ru/vacancy/94048113",
-        "employer": "adidas Kazakhstan"
+        "url": "https://hh.ru/vacancy/98957420",
+        "employer": "билайн"
     },
     {
-        "name": "Старший бухгалтер",
-        "salary": {
-            "from": 1500000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98904451",
-        "employer": "Angels Niko Advisory"
+        "name": "Стажер-разработчик Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98923860",
+        "employer": "МТС Финтех"
     },
     {
-        "name": "Junior Front-End разработчик JS",
+        "name": "Junior Python-разработчик",
         "salary": {
-            "from": 3500000,
-            "to": 5000000,
-            "currency": "UZS",
+            "from": 40000,
+            "to": 60000,
+            "currency": "RUR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/98749526",
-        "employer": "OOO UZGPS"
+        "url": "https://hh.ru/vacancy/98919945",
+        "employer": "EasyDev"
     },
     {
-        "name": "Администратор фитнес-центра (м.Ладожская)",
+        "name": "Junior Python разработчик",
         "salary": {
-            "from": 33000,
-            "to": 45000,
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98847056",
+        "employer": "Виста"
+    },
+    {
+        "name": "Разработчик-стажер Python (parsing+backend)",
+        "salary": {
+            "from": null,
+            "to": 100000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/94123299",
-        "employer": "Extra Sport"
+        "url": "https://hh.ru/vacancy/98707798",
+        "employer": "OptimumPrice.ru"
     },
     {
-        "name": "Водитель-курьер (с личным автомобилем)",
+        "name": "Стажер-разработчик",
         "salary": {
-            "from": 300000,
-            "to": 800000,
+            "from": null,
+            "to": 52000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98901908",
+        "employer": "Электронная торговая площадка Газпромбанка"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "salary": {
+            "from": 500000,
+            "to": null,
             "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98816135",
+        "employer": "SmartCall"
+    },
+    {
+        "name": "Стажер-разработчик",
+        "salary": {
+            "from": null,
+            "to": 52000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98903376",
+        "employer": "Электронная торговая площадка Газпромбанка"
+    },
+    {
+        "name": "Junior/Стажер Python-разработчик",
+        "salary": {
+            "from": null,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98638255",
+        "employer": "Матвеев Дмитрий Александрович"
+    },
+    {
+        "name": "Junior Software Engineer (Начинающий специалист)",
+        "salary": {
+            "from": 500,
+            "to": 800,
+            "currency": "USD",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98161165",
-        "employer": "Tandau Group"
+        "url": "https://hh.ru/vacancy/98427645",
+        "employer": "Magis Corp"
     },
     {
-        "name": "Семейный водитель",
+        "name": "Стажер Программист-разработчик Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98384700",
+        "employer": "VITA STIMUL GRAND"
+    },
+    {
+        "name": "QA Engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98809395",
+        "employer": "Хантфлоу"
+    },
+    {
+        "name": "Backend python разработчик (Django)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98942773",
+        "employer": "ТрансМашХолдинг, Группа компаний"
+    },
+    {
+        "name": "QA-engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98790577",
+        "employer": "YCLIENTS LLC"
+    },
+    {
+        "name": "Backend-разработчик на Python",
         "salary": {
             "from": 150000,
             "to": 180000,
             "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98942751",
-        "employer": "Стайнесс"
-    },
-    {
-        "name": "ВНИМАНИЕ КОНКУРС на ВЫСОКООПЛАЧИВАЕМУЮ должность СРОЧНО !!!",
-        "salary": {
-            "from": 1500,
-            "to": 15000,
-            "currency": "USD",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98589792",
-        "employer": "PREMIUM ESTATE-GRUP"
-    },
-    {
-        "name": "Личный водитель",
-        "salary": {
-            "from": 9000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98622105",
-        "employer": "Yakovleva V."
-    },
-    {
-        "name": "Менеджер-администратор в фитнес клуб (м. Проспект Славы, м. Междунардная)",
-        "salary": {
-            "from": 70000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/92369445",
-        "employer": "Extra Sport"
-    },
-    {
-        "name": "Продавец-консультант (Индустриальный, Мотовилихинский)",
-        "salary": {
-            "from": 33000,
-            "to": 44000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/73495840",
-        "employer": "Мир хвостатых"
-    },
-    {
-        "name": "Менеджер по работе с клиентами",
-        "salary": {
-            "from": 50000,
-            "to": 70000,
-            "currency": "RUR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/97096973",
-        "employer": "Почта Банк"
+        "url": "https://hh.ru/vacancy/98818345",
+        "employer": "ЛИЛУ"
     },
     {
-        "name": "Менеджер по продажам",
-        "salary": {
-            "from": 400000,
-            "to": 600000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97570211",
-        "employer": "SORRISO ACADEMY"
+        "name": "Разработчик Python Junior (Backend)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98383317",
+        "employer": "Казтелепорт, АО"
     },
     {
-        "name": "Персональный водитель генерального директора",
+        "name": "Стажер-программист",
         "salary": {
-            "from": 120000,
-            "to": 130000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98961387",
-        "employer": "Бизнес Групп"
-    },
-    {
-        "name": "Web developer",
-        "salary": {
-            "from": 4000000,
-            "to": 12000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98733390",
-        "employer": "DIMAX-GROUP-ACADEMY"
-    },
-    {
-        "name": "Графический дизайнер",
-        "salary": {
-            "from": null,
-            "to": 10000000,
-            "currency": "UZS",
+            "from": 2500,
+            "to": null,
+            "currency": "BYR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/98885380",
-        "employer": "Evolution digital"
+        "url": "https://hh.ru/vacancy/98346328",
+        "employer": "Технологии пользовательских интерфейсов"
     },
     {
-        "name": "Руководитель проектов в энергетическую компанию",
-        "salary": {
-            "from": 750000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98940147",
-        "employer": "StaffRecruitment"
-    },
-    {
-        "name": "Менеджер по продажам (ПолиТэр), Казань",
-        "salary": {
-            "from": 150000,
-            "to": 300000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97138423",
-        "employer": "Рост Развитие Решение"
-    },
-    {
-        "name": "Водитель со своим автомобилем",
-        "salary": {
-            "from": null,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98833013",
-        "employer": "Частная компания Alpha State Management Ltd."
-    },
-    {
-        "name": "Персональный водитель руководителя",
-        "salary": {
-            "from": 110000,
-            "to": 110000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98951313",
-        "employer": "Медтехинновации"
-    },
-    {
-        "name": "Менеджер по работе с клиентами (строймонтаж)",
-        "salary": {
-            "from": 80000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97903616",
-        "employer": "Рост Развитие Решение"
-    },
-    {
-        "name": "Администратор в Учебный Центр",
-        "salary": {
-            "from": 3000000,
-            "to": 12000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/97247060",
-        "employer": "YOUR FIRST STEP"
-    },
-    {
-        "name": "Агент по недвижимости",
-        "salary": {
-            "from": 100000,
-            "to": 400000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/68208465",
-        "employer": "ВЛАДИС"
-    },
-    {
-        "name": "Управляющий магазином",
-        "salary": {
-            "from": 20000000,
-            "to": 50000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98797454",
-        "employer": "ЧП Быстрова О.А"
-    },
-    {
-        "name": "Сотрудник в отдел кадров",
-        "salary": {
-            "from": 33000,
-            "to": null,
-            "currency": "KGS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97437269",
-        "employer": "ОсОО Dia.kg"
-    },
-    {
-        "name": "Дегустатор пива",
-        "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "KGS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98906477",
-        "employer": "ОсОО Балтика"
-    },
-    {
-        "name": "Продавец-консультант в аэропорт Ташкент",
-        "salary": {
-            "from": 5000000,
-            "to": 7000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98414502",
-        "employer": "GLOBAL UNIVERSAL SERVIS"
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 300000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97401686",
-        "employer": "ГЛОБАР-Азия"
-    },
-    {
-        "name": "Продавец-консультант в торговый зал",
+        "name": "Начинающий разработчика Python",
         "salary": {
             "from": 200000,
             "to": 250000,
             "currency": "KZT",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98123821",
-        "employer": "Витрина плюс"
+        "url": "https://hh.ru/vacancy/98808213",
+        "employer": "Метако ПФ"
     },
     {
-        "name": "Product & Process Implementation Technologist\\Технолог по внедрению продуктов и процессов (Ступино)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/95816441",
-        "employer": "Марс"
-    },
-    {
-        "name": "Администратор",
+        "name": "Frontend-разработчик",
         "salary": {
-            "from": 4000000,
-            "to": 5000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98512927",
-        "employer": "HAPPY TIME"
-    },
-    {
-        "name": "Администратор выставки одежды",
-        "salary": {
-            "from": 90000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/96760625",
-        "employer": "Валова Екатерина Дмитриевна"
-    },
-    {
-        "name": "Помощник флориста",
-        "salary": {
-            "from": 120000,
-            "to": 270000,
+            "from": 500000,
+            "to": 800000,
             "currency": "KZT",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98132555",
-        "employer": "ИМАМОВА Г. И."
+        "url": "https://hh.ru/vacancy/98770755",
+        "employer": "WM-Kazakhstan"
     },
     {
-        "name": "Оператор-кассир в компьютерный клуб",
+        "name": "Python разработчик",
+        "salary": {
+            "from": 50000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98852388",
+        "employer": "Теропром"
+    },
+    {
+        "name": "Инженер-тестировщик (ручной)",
+        "salary": {
+            "from": null,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98811170",
+        "employer": "Цифровые решения, НПП"
+    },
+    {
+        "name": "Back-end разработчик",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97694193",
+        "employer": "PAYDA Accounting Development (ПАЙДА Аккаунтинг Девелопмент)"
+    },
+    {
+        "name": "QA-engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98790621",
+        "employer": "YCLIENTS LLC"
+    },
+    {
+        "name": "Стажер IT (нагрузочное тестирование), Ижевск",
+        "salary": {
+            "from": 40000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98898069",
+        "employer": "Перфоманс Лаб"
+    },
+    {
+        "name": "Программист-разработчик Python",
         "salary": {
             "from": 200000,
-            "to": 280000,
+            "to": 400000,
             "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98091003",
-        "employer": "САЛТАНАТ"
-    },
-    {
-        "name": "Тиктокер-актер",
-        "salary": {
-            "from": 2500,
-            "to": 7000,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98854582",
-        "employer": "Коммерческая торговая компания Китайский медведь"
-    },
-    {
-        "name": "Бухгалтер \"Клиент-Банк\"",
-        "salary": {
-            "from": 6,
-            "to": 7000000,
-            "currency": "UZS",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/98895073",
-        "employer": "Perfect balance"
+        "url": "https://hh.ru/vacancy/98725487",
+        "employer": "Джакупова"
     },
     {
-        "name": "Персональный, семейный водитель",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/98927566",
-        "employer": "Кстовский Индустриальный Парк"
-    },
-    {
-        "name": "Генеральный директор",
+        "name": "Junior Golang Developer",
         "salary": {
-            "from": 1000000,
+            "from": 75000,
             "to": null,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98936949",
-        "employer": "StaffRecruitment"
+        "url": "https://hh.ru/vacancy/96194079",
+        "employer": "JavaCode"
     },
     {
-        "name": "Мобилограф",
+        "name": "Разработчик back-end (Python)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98926186",
+        "employer": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области"
+    },
+    {
+        "name": "Middle FrontEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98814325",
+        "employer": "РТСофт"
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98591518",
+        "employer": "Капиталбанк"
+    },
+    {
+        "name": "Младший тестировщик чат-ботов",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98369887",
+        "employer": "Just AI"
+    },
+    {
+        "name": "Начинающий Backend-разработчик NodeJs/GoLang (стажер)",
         "salary": {
-            "from": 300000,
+            "from": 45000,
             "to": null,
-            "currency": "KZT",
+            "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/97875507",
-        "employer": "Inspire International"
+        "url": "https://hh.ru/vacancy/98339824",
+        "employer": "Hotels.ru"
     },
     {
-        "name": "Офис-менеджер",
+        "name": "Разработчик Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98942844",
+        "employer": "СберМобайл"
+    },
+    {
+        "name": "Стажер-разработчик Python",
         "salary": {
-            "from": 300000,
+            "from": 100000,
             "to": null,
-            "currency": "KZT",
+            "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98894393",
-        "employer": "ЧК Aurum Kazakhstan Group Ltd."
+        "url": "https://hh.ru/vacancy/94354526",
+        "employer": "Додо Пицца"
     },
     {
-        "name": "Помощник флориста (ученик)",
+        "name": "Python Backend developer",
+        "salary": {
+            "from": null,
+            "to": 195000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98783481",
+        "employer": "Октопустех"
+    },
+    {
+        "name": "Frontend Javascript разработчик",
         "salary": {
             "from": 120000,
-            "to": 130000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98565084",
+        "employer": "НОРСИ-ТРАНС"
+    },
+    {
+        "name": "Data Analyst уровня Junior/Junior+",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98568204",
+        "employer": "Центр Мобильной Идентификации"
+    },
+    {
+        "name": "Python разработчик (Backend)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98776230",
+        "employer": "Аквариус, Группа компаний"
+    },
+    {
+        "name": "Специалист по взаимодействию с МВД (информационная безопасность)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98853009",
+        "employer": "Центральный банк Российской Федерации"
+    },
+    {
+        "name": "Junior программист/разработчик Frontend backend/Junior разработчик",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98762643",
+        "employer": "AVPOWER"
+    },
+    {
+        "name": "Стажер-разработчик",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
             "currency": "KZT",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98242842",
-        "employer": "ТМ Romeo Flowers (Касымгалиев А.А.)"
+        "url": "https://hh.ru/vacancy/97076411",
+        "employer": "Prime Source"
     },
     {
-        "name": "Тестировщик сайтов",
+        "name": "Программист-стажер",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98612784",
+        "employer": "ЛАНИТ"
+    },
+    {
+        "name": "QA инженер",
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98818826",
+        "employer": "Транснефтьэнерго"
+    },
+    {
+        "name": "Менеджер продукта",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98941910",
+        "employer": "«Филип Моррис Интернэшнл» в России"
+    },
+    {
+        "name": "Junior программист Python",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98449444",
+        "employer": "ПерилаГлавСнаб"
+    },
+    {
+        "name": "Data Scientist",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98823561",
+        "employer": "BetBoom"
+    },
+    {
+        "name": "Стажер Back-end разработчика (php, python, c#)",
+        "salary": {
+            "from": 15000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/89753481",
+        "employer": "Nti.team"
+    },
+    {
+        "name": "Junior/Middle Python Developer (Backend) remote/удаленно",
+        "salary": {
+            "from": 100000,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98771766",
+        "employer": "Апэрбот"
+    },
+    {
+        "name": "Data Analyst (junior)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98463457",
+        "employer": "ФЛАУВАУ"
+    },
+    {
+        "name": "Разработчик backend junior",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97464445",
+        "employer": "ISCO.PRO"
+    },
+    {
+        "name": "Middle Backend Разработчик",
+        "salary": {
+            "from": 70000,
+            "to": 110000,
+            "currency": "KGS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98778748",
+        "employer": "ОсОО Цифровые инновации"
+    },
+    {
+        "name": "BIM-координатор/менеджер",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98950420",
+        "employer": "MARKS GROUP"
+    },
+    {
+        "name": "Аналитик данных / веб-аналитик",
+        "salary": {
+            "from": 50000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98940133",
+        "employer": "Директ Лайн"
+    },
+    {
+        "name": "Разработчик Python",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98791730",
+        "employer": "Сапл-биз"
+    },
+    {
+        "name": "Frontend developer",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98548757",
+        "employer": "Volker Group"
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98496048",
+        "employer": "IT-Work"
+    },
+    {
+        "name": "Middle QA Engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98926037",
+        "employer": "MyCar Group"
+    },
+    {
+        "name": "BI analyst/Data analyst",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98902580",
+        "employer": "UZPAYNET"
+    },
+    {
+        "name": "Python backend-developer (Middle)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98745463",
+        "employer": "Интерсвязь"
+    },
+    {
+        "name": "Разработчик Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98765752",
+        "employer": "РТЛ"
+    },
+    {
+        "name": "Младший (junior) программист Python",
+        "salary": {
+            "from": 37050,
+            "to": 78750,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98108927",
+        "employer": "Интеллектуальные системы"
+    },
+    {
+        "name": "Python Junior разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98634244",
+        "employer": "Hi, Rockits!"
+    },
+    {
+        "name": "Python разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98942288",
+        "employer": "СКБ ЛАБ"
+    },
+    {
+        "name": "Аналитик по оптимизации бизнес-процессов (Казань)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98840021",
+        "employer": "Аналитический центр при Правительстве Российской Федерации"
+    },
+    {
+        "name": "Тестировщик/QA-специалист",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/90294293",
+        "employer": "ТОП КЕЙС"
+    },
+    {
+        "name": "Project Manager/Product manager",
+        "salary": {
+            "from": 4000,
+            "to": null,
+            "currency": "EUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97098403",
+        "employer": "Bazilik Group"
+    },
+    {
+        "name": "Middle+ QA Engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/97694695",
+        "employer": "Xello"
+    },
+    {
+        "name": "QA engineer (удаленно)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98794767",
+        "employer": "Межрегиональный ТранзитТелеком (АО МТТ)"
+    },
+    {
+        "name": "Python разработчик",
         "salary": {
             "from": 60000,
             "to": 110000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98485147",
-        "employer": "Воронько Алексей Вячеславович"
+        "url": "https://hh.ru/vacancy/98854444",
+        "employer": "Гальченко Тимофей Валерьевич"
     },
     {
-        "name": "Помощник менеджера по работе с маркетплейсами OZON, WB",
-        "salary": {
-            "from": 1000,
-            "to": 2500,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98697655",
-        "employer": "Бизнес24"
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 300000,
-            "to": 350000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98903475",
-        "employer": "Департамент персонала"
-    },
-    {
-        "name": "Специалист IT отдела",
-        "salary": {
-            "from": 150000,
-            "to": 200000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98670035",
-        "employer": "DigiX"
-    },
-    {
-        "name": "Персональный водитель",
+        "name": "Junior Python Developer/ Data Analyst (Агентство Starlink)",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98927653",
-        "employer": "Валента Фармацевтика"
+        "url": "https://hh.ru/vacancy/98623059",
+        "employer": "RoRe Group"
     },
     {
-        "name": "Контрактный специалист",
+        "name": "Python разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98783128",
+        "employer": "Домклик"
+    },
+    {
+        "name": "Junior-разработчик на языке Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98479658",
+        "employer": "FG LLC"
+    },
+    {
+        "name": "Программист Python",
         "salary": {
-            "from": 400000,
-            "to": null,
-            "currency": "KZT",
+            "from": 80000,
+            "to": 110000,
+            "currency": "RUR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/98886071",
-        "employer": "Supros Engineering & Supply (СУПРОС Инжиниринг энд Саплай)"
+        "url": "https://hh.ru/vacancy/98533734",
+        "employer": "FaceX"
     },
     {
-        "name": "Водитель на легковой автомобиль",
+        "name": "TeamLead/TechLead",
+        "salary": {
+            "from": 450000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98724757",
+        "employer": "Реддиджитал"
+    },
+    {
+        "name": "Python/Golang разработчик",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98932303",
-        "employer": "ПКК ВЕСНА"
+        "url": "https://hh.ru/vacancy/98927870",
+        "employer": "Геомирагро"
     },
     {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 20000000,
-            "to": 25000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98763623",
-        "employer": "KPI COM"
-    },
-    {
-        "name": "Директор по эксплуатации",
-        "salary": {
-            "from": 350000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98933959",
-        "employer": "Any Service"
-    },
-    {
-        "name": "Инженер-сметчик",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98301254",
-        "employer": "Терминал Казахстан"
-    },
-    {
-        "name": "Юрисконсульт",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/98798776",
-        "employer": "RSM UZBEKISTAN"
-    },
-    {
-        "name": "Водитель",
-        "salary": {
-            "from": 350000,
-            "to": 1000000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98697348",
-        "employer": "Region Rent Car"
-    },
-    {
-        "name": "Frontend-разработчик Junior",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98935408",
-        "employer": "Lead Profit"
-    },
-    {
-        "name": "Front-end разработчик junior",
-        "salary": {
-            "from": 30000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/94473404",
-        "employer": "Nti.team"
-    },
-    {
-        "name": "Администратор в магазин одежды",
-        "salary": {
-            "from": 90000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/95842574",
-        "employer": "Валова Екатерина Дмитриевна"
-    },
-    {
-        "name": "Менеджер-дизайнер по мебели для кухни",
-        "salary": {
-            "from": 95000,
-            "to": 140000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98321865",
-        "employer": "ARDI"
-    },
-    {
-        "name": "Персональный водитель (бизнес)",
+        "name": "Backend-разработчик",
         "salary": {
             "from": 150000,
             "to": null,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98905607",
-        "employer": "Управляющая компания ВСВ"
+        "url": "https://hh.ru/vacancy/97020795",
+        "employer": "RTNO"
     },
     {
-        "name": "Мастер-портной в Дом Моды",
+        "name": "ML-инженер (рекомендательные системы и поиск)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98851675",
+        "employer": "RUTUBE"
+    },
+    {
+        "name": "Backend-разработчик",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98879747",
+        "employer": "НПО Алзамир"
+    },
+    {
+        "name": "Начинающий Backend-разработчик NodeJs/GoLang",
+        "salary": {
+            "from": 35000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97012351",
+        "employer": "Hotels.ru"
+    },
+    {
+        "name": "Python разработчик",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98828034",
+        "employer": "Аптеки Столички"
+    },
+    {
+        "name": "PHP-developer / PHP-разработчик (backend)",
         "salary": {
             "from": 120000,
             "to": 180000,
             "currency": "RUR",
-            "gross": false
+            "gross": true
         },
-        "url": "https://hh.ru/vacancy/97721573",
-        "employer": "Мастерская классического костюма"
+        "url": "https://hh.ru/vacancy/98498569",
+        "employer": "Доставка-Сервис"
     },
     {
-        "name": "Дивизионный менеджер по продажам",
+        "name": "Petroleum Engineer (Baku)",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98918122",
-        "employer": "JTI"
+        "url": "https://hh.ru/vacancy/98612984",
+        "employer": "Cornerstone Russia"
     },
     {
-        "name": "Личный водитель для руководителя на автомобиле компании (Mercedes-Benz Gls x167)",
-        "salary": {
-            "from": 100000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98940716",
-        "employer": "ВЕЛМАР"
-    },
-    {
-        "name": "Руководитель направления службы безопасности",
+        "name": "Тестировщик ПО / QA Engineer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98893158",
-        "employer": "СУЭК, Сибирская Угольная Энергетическая Компания"
+        "url": "https://hh.ru/vacancy/98789740",
+        "employer": "Виста"
     },
     {
-        "name": "Сборщик / монтажник на склад",
-        "salary": {
-            "from": 250000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97173820",
-        "employer": "Витрина плюс"
+        "name": "Аналитик Excel",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98607648",
+        "employer": "OptiTeam"
     },
     {
-        "name": "Администратор",
-        "salary": {
-            "from": 250000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98816766",
-        "employer": "ADD System"
+        "name": "Data Engineer (стажер)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98915573",
+        "employer": "Умскул"
     },
     {
-        "name": "Управляющий директор",
+        "name": "Аналитик",
         "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98952882",
-        "employer": "Протэк"
-    },
-    {
-        "name": "Водитель офисный",
-        "salary": {
-            "from": null,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/87762351",
-        "employer": "Управляющая компания РОСНАНО"
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 350000,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98917020",
-        "employer": "CrmTrade.kz"
-    },
-    {
-        "name": "Администратор аккаунта (косметология)",
-        "salary": {
-            "from": 40000,
+            "from": 80000,
             "to": 80000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/97883573",
-        "employer": "BANGCOOK"
+        "url": "https://hh.ru/vacancy/97952173",
+        "employer": "Шамса-Холдинг"
     },
     {
-        "name": "Региональный менеджер по развитию в Азербайджане",
-        "salary": {
-            "from": 1000,
-            "to": null,
-            "currency": "USD",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98899516",
-        "employer": "Амплитуда"
-    },
-    {
-        "name": "Региональный торговый представитель",
-        "salary": {
-            "from": 4000000,
-            "to": 15000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98700321",
-        "employer": "HOUSEHOLD PROTECTION LIMITED"
-    },
-    {
-        "name": "Сотрудник службы безопасности",
-        "salary": {
-            "from": null,
-            "to": 175000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/82300596",
-        "employer": "Московский метрополитен"
-    },
-    {
-        "name": "Оператор 1C",
-        "salary": {
-            "from": 45000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98916160",
-        "employer": "Тимоша"
-    },
-    {
-        "name": "Администратор офиса",
-        "salary": {
-            "from": 200000,
-            "to": 250000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98909693",
-        "employer": "HOME Group"
-    },
-    {
-        "name": "Инспектор Контрольно-счетной палаты Мурманской области",
-        "salary": {
-            "from": 63000,
-            "to": 140000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98919019",
-        "employer": "Контрольно-счетная палата Мурманской области"
-    },
-    {
-        "name": "Водитель с личным автомобилем",
-        "salary": {
-            "from": 6000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98903590",
-        "employer": "SPEY MEDICAL LTD"
-    },
-    {
-        "name": "Продавец - консультант в свадебный салон / Администратор магазина",
-        "salary": {
-            "from": 35000,
-            "to": 65000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97084845",
-        "employer": "UniRenter"
-    },
-    {
-        "name": "Продавец-консультант в магазин продажи мармелада",
-        "salary": {
-            "from": 1200,
-            "to": null,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98138910",
-        "employer": "Дом Мармелада"
-    },
-    {
-        "name": "Заместитель директора",
-        "salary": {
-            "from": 140000,
-            "to": 140000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98935304",
-        "employer": "Свердловский завод безалкогольных напитков Тонус"
-    },
-    {
-        "name": "Специалист по работе c ecxel",
-        "salary": {
-            "from": 25000,
-            "to": 25000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/96966852",
-        "employer": "Спектр"
-    },
-    {
-        "name": "Военнослужащий по контракту",
-        "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97350663",
-        "employer": "В/ч 2320"
-    },
-    {
-        "name": "Ассистент руководителя",
-        "salary": {
-            "from": 5000000,
-            "to": 10000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/97696198",
-        "employer": "ASIA MAX EXPORT"
-    },
-    {
-        "name": "Секретарь на ресепшен",
-        "salary": {
-            "from": 500000,
-            "to": 500000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/98824464",
-        "employer": "Лофтис"
-    },
-    {
-        "name": "Директор по информационным технологиям/CIO",
+        "name": "Middle QA Engineer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98962229",
-        "employer": "Фаворит, Международный кадровый центр"
+        "url": "https://hh.ru/vacancy/98639036",
+        "employer": "Level.Travel"
     },
     {
-        "name": "Менеджер ресторана",
-        "salary": {
-            "from": 85000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/93103456",
-        "employer": "Ресторер"
-    },
-    {
-        "name": "Директор по экономике",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/98912548",
-        "employer": "РУСЭЛ"
-    },
-    {
-        "name": "Сборщик заказов с Каспи Магазина",
-        "salary": {
-            "from": 200000,
-            "to": 200000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98697521",
-        "employer": "Glama, ТОО"
-    },
-    {
-        "name": "Водитель персональный в семью",
-        "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98786715",
-        "employer": "Юпитер"
-    },
-    {
-        "name": "Оператор ввода данных/контент-менеджер",
-        "salary": {
-            "from": 45000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97348905",
-        "employer": "НАНО"
-    },
-    {
-        "name": "Администратор в детский учебный центр",
-        "salary": {
-            "from": null,
-            "to": 3500000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98307054",
-        "employer": "Katta tanaffus"
-    },
-    {
-        "name": "Менеджер пункта выдачи заказов Wildberries",
+        "name": "Python-разработчик / Junior Python Developer",
         "salary": {
             "from": 100000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98411755",
-        "employer": "NurEl"
-    },
-    {
-        "name": "Исполнительный директор",
-        "salary": {
-            "from": 500000,
-            "to": null,
+            "to": 150000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98785694",
-        "employer": "Мозен"
+        "url": "https://hh.ru/vacancy/97183556",
+        "employer": "Comexp"
     },
     {
-        "name": "Векторный иллюстратор",
+        "name": "Python разработчик",
         "salary": {
-            "from": 900,
-            "to": 1200,
-            "currency": "USD",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97218097",
-        "employer": "Myteam.art"
-    },
-    {
-        "name": "Водитель офисный",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/98820839",
-        "employer": "Агрокомплекс Калининский"
-    },
-    {
-        "name": "Кассир в кофейню “ZEBRA COFFEE”",
-        "salary": {
-            "from": 300000,
-            "to": 370000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/97503908",
-        "employer": "DINA"
-    },
-    {
-        "name": "Персональный водитель на 5/2,КП Гринфилд",
-        "salary": {
-            "from": 120000,
-            "to": null,
+            "from": 100000,
+            "to": 120000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98830202",
-        "employer": "Адам и Ева и К"
+        "url": "https://hh.ru/vacancy/97138886",
+        "employer": "Центр развития интеллекта Мой Ломоносов"
     },
     {
-        "name": "Бариста",
+        "name": "Аналитик (складская логистика)",
         "salary": {
-            "from": 8000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/98115740",
-        "employer": "Мухамеджанова"
-    },
-    {
-        "name": "Водитель легкового автомобиля",
-        "salary": {
-            "from": 60600,
-            "to": null,
+            "from": null,
+            "to": 152000,
             "currency": "RUR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/98901211",
-        "employer": "Агропромкомплектация"
+        "url": "https://hh.ru/vacancy/98897399",
+        "employer": "Азбука вкуса"
     },
     {
-        "name": "Оператор производственной линии",
+        "name": "Java Developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/98083961",
-        "employer": "Hyundai Mobis (МОБИС МОДУЛЬ СНГ)"
+        "url": "https://hh.ru/vacancy/98891672",
+        "employer": "Группа компаний SRG"
     },
     {
-        "name": "Менеджер пункта выдачи заказов Wildberries",
+        "name": "Специалист по тестированию / QA Engineer",
         "salary": {
-            "from": 150000,
-            "to": 157500,
-            "currency": "KZT",
+            "from": null,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98830794",
+        "employer": "НТЦ ЕЭС Информационные Комплексы"
+    },
+    {
+        "name": "QA-инженер",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/97304973",
+        "employer": "Мадела"
+    },
+    {
+        "name": "No-code Developer / Junior/Middle в AI студию в США (ML, full stack, python, go, javascript)",
+        "salary": {
+            "from": 52052,
+            "to": 100052,
+            "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/97380464",
-        "employer": "SIMPLE POINT (СИМПЛ ПОИНТ)"
+        "url": "https://hh.ru/vacancy/98188460",
+        "employer": "Hi no code"
     },
     {
-        "name": "Заместитель главного бухгалтера по налоговому учету. Рабочее место находится в г.Усть-Каменогорск",
+        "name": "Backend-разработчик",
         "salary": {
-            "from": 500000,
+            "from": 70000,
             "to": null,
-            "currency": "KZT",
+            "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/98759392",
-        "employer": "КАЗЦВЕТМЕТРЕМОНТ"
+        "url": "https://hh.ru/vacancy/98301831",
+        "employer": "Blissweb"
+    },
+    {
+        "name": "Junior Python Разработчик",
+        "salary": {
+            "from": null,
+            "to": 10000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97466453",
+        "employer": "Anverali Group"
+    },
+    {
+        "name": "Заместитель руководителя Департамента аудита образования, науки и инноваций",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98490171",
+        "employer": "Счетная палата Российской Федерации"
+    },
+    {
+        "name": "Junior Product Analyst",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/97239861",
+        "employer": "Lamoda Tech"
+    },
+    {
+        "name": "Разработчик / Младший разработчик C++",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98475937",
+        "employer": "TrueConf"
+    },
+    {
+        "name": "Стажер ИТ проект",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98501325",
+        "employer": "Автопромлизинг"
+    },
+    {
+        "name": "React разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98565506",
+        "employer": "Sapiens solutions"
     }
 ]

@@ -1,0 +1,1042 @@
+[
+    {
+        "name": "Менеджер по продажам",
+        "salary": {
+            "from": 200000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98132954",
+        "employer": "ARMA GRADE"
+    },
+    {
+        "name": "Продавец-консультант adidas, ТРЦ \"Forum\"",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/94048113",
+        "employer": "adidas Kazakhstan"
+    },
+    {
+        "name": "Старший бухгалтер",
+        "salary": {
+            "from": 1500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98904451",
+        "employer": "Angels Niko Advisory"
+    },
+    {
+        "name": "Junior Front-End разработчик JS",
+        "salary": {
+            "from": 3500000,
+            "to": 5000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98749526",
+        "employer": "OOO UZGPS"
+    },
+    {
+        "name": "Администратор фитнес-центра (м.Ладожская)",
+        "salary": {
+            "from": 33000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/94123299",
+        "employer": "Extra Sport"
+    },
+    {
+        "name": "Водитель-курьер (с личным автомобилем)",
+        "salary": {
+            "from": 300000,
+            "to": 800000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98161165",
+        "employer": "Tandau Group"
+    },
+    {
+        "name": "Семейный водитель",
+        "salary": {
+            "from": 150000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98942751",
+        "employer": "Стайнесс"
+    },
+    {
+        "name": "ВНИМАНИЕ КОНКУРС на ВЫСОКООПЛАЧИВАЕМУЮ должность СРОЧНО !!!",
+        "salary": {
+            "from": 1500,
+            "to": 15000,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98589792",
+        "employer": "PREMIUM ESTATE-GRUP"
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 9000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98622105",
+        "employer": "Yakovleva V."
+    },
+    {
+        "name": "Менеджер-администратор в фитнес клуб (м. Проспект Славы, м. Междунардная)",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/92369445",
+        "employer": "Extra Sport"
+    },
+    {
+        "name": "Продавец-консультант (Индустриальный, Мотовилихинский)",
+        "salary": {
+            "from": 33000,
+            "to": 44000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/73495840",
+        "employer": "Мир хвостатых"
+    },
+    {
+        "name": "Менеджер по работе с клиентами",
+        "salary": {
+            "from": 50000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/97096973",
+        "employer": "Почта Банк"
+    },
+    {
+        "name": "Менеджер по продажам",
+        "salary": {
+            "from": 400000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97570211",
+        "employer": "SORRISO ACADEMY"
+    },
+    {
+        "name": "Персональный водитель генерального директора",
+        "salary": {
+            "from": 120000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98961387",
+        "employer": "Бизнес Групп"
+    },
+    {
+        "name": "Web developer",
+        "salary": {
+            "from": 4000000,
+            "to": 12000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98733390",
+        "employer": "DIMAX-GROUP-ACADEMY"
+    },
+    {
+        "name": "Графический дизайнер",
+        "salary": {
+            "from": null,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98885380",
+        "employer": "Evolution digital"
+    },
+    {
+        "name": "Руководитель проектов в энергетическую компанию",
+        "salary": {
+            "from": 750000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98940147",
+        "employer": "StaffRecruitment"
+    },
+    {
+        "name": "Менеджер по продажам (ПолиТэр), Казань",
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97138423",
+        "employer": "Рост Развитие Решение"
+    },
+    {
+        "name": "Водитель со своим автомобилем",
+        "salary": {
+            "from": null,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98833013",
+        "employer": "Частная компания Alpha State Management Ltd."
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "salary": {
+            "from": 110000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98951313",
+        "employer": "Медтехинновации"
+    },
+    {
+        "name": "Менеджер по работе с клиентами (строймонтаж)",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97903616",
+        "employer": "Рост Развитие Решение"
+    },
+    {
+        "name": "Администратор в Учебный Центр",
+        "salary": {
+            "from": 3000000,
+            "to": 12000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/97247060",
+        "employer": "YOUR FIRST STEP"
+    },
+    {
+        "name": "Агент по недвижимости",
+        "salary": {
+            "from": 100000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/68208465",
+        "employer": "ВЛАДИС"
+    },
+    {
+        "name": "Управляющий магазином",
+        "salary": {
+            "from": 20000000,
+            "to": 50000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98797454",
+        "employer": "ЧП Быстрова О.А"
+    },
+    {
+        "name": "Сотрудник в отдел кадров",
+        "salary": {
+            "from": 33000,
+            "to": null,
+            "currency": "KGS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97437269",
+        "employer": "ОсОО Dia.kg"
+    },
+    {
+        "name": "Дегустатор пива",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "KGS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98906477",
+        "employer": "ОсОО Балтика"
+    },
+    {
+        "name": "Продавец-консультант в аэропорт Ташкент",
+        "salary": {
+            "from": 5000000,
+            "to": 7000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98414502",
+        "employer": "GLOBAL UNIVERSAL SERVIS"
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97401686",
+        "employer": "ГЛОБАР-Азия"
+    },
+    {
+        "name": "Продавец-консультант в торговый зал",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98123821",
+        "employer": "Витрина плюс"
+    },
+    {
+        "name": "Product & Process Implementation Technologist\\Технолог по внедрению продуктов и процессов (Ступино)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/95816441",
+        "employer": "Марс"
+    },
+    {
+        "name": "Администратор",
+        "salary": {
+            "from": 4000000,
+            "to": 5000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98512927",
+        "employer": "HAPPY TIME"
+    },
+    {
+        "name": "Администратор выставки одежды",
+        "salary": {
+            "from": 90000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/96760625",
+        "employer": "Валова Екатерина Дмитриевна"
+    },
+    {
+        "name": "Помощник флориста",
+        "salary": {
+            "from": 120000,
+            "to": 270000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98132555",
+        "employer": "ИМАМОВА Г. И."
+    },
+    {
+        "name": "Оператор-кассир в компьютерный клуб",
+        "salary": {
+            "from": 200000,
+            "to": 280000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98091003",
+        "employer": "САЛТАНАТ"
+    },
+    {
+        "name": "Тиктокер-актер",
+        "salary": {
+            "from": 2500,
+            "to": 7000,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98854582",
+        "employer": "Коммерческая торговая компания Китайский медведь"
+    },
+    {
+        "name": "Бухгалтер \"Клиент-Банк\"",
+        "salary": {
+            "from": 6,
+            "to": 7000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98895073",
+        "employer": "Perfect balance"
+    },
+    {
+        "name": "Персональный, семейный водитель",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98927566",
+        "employer": "Кстовский Индустриальный Парк"
+    },
+    {
+        "name": "Генеральный директор",
+        "salary": {
+            "from": 1000000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98936949",
+        "employer": "StaffRecruitment"
+    },
+    {
+        "name": "Мобилограф",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97875507",
+        "employer": "Inspire International"
+    },
+    {
+        "name": "Офис-менеджер",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98894393",
+        "employer": "ЧК Aurum Kazakhstan Group Ltd."
+    },
+    {
+        "name": "Помощник флориста (ученик)",
+        "salary": {
+            "from": 120000,
+            "to": 130000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98242842",
+        "employer": "ТМ Romeo Flowers (Касымгалиев А.А.)"
+    },
+    {
+        "name": "Тестировщик сайтов",
+        "salary": {
+            "from": 60000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98485147",
+        "employer": "Воронько Алексей Вячеславович"
+    },
+    {
+        "name": "Помощник менеджера по работе с маркетплейсами OZON, WB",
+        "salary": {
+            "from": 1000,
+            "to": 2500,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98697655",
+        "employer": "Бизнес24"
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98903475",
+        "employer": "Департамент персонала"
+    },
+    {
+        "name": "Специалист IT отдела",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98670035",
+        "employer": "DigiX"
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98927653",
+        "employer": "Валента Фармацевтика"
+    },
+    {
+        "name": "Контрактный специалист",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98886071",
+        "employer": "Supros Engineering & Supply (СУПРОС Инжиниринг энд Саплай)"
+    },
+    {
+        "name": "Водитель на легковой автомобиль",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98932303",
+        "employer": "ПКК ВЕСНА"
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 20000000,
+            "to": 25000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98763623",
+        "employer": "KPI COM"
+    },
+    {
+        "name": "Директор по эксплуатации",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98933959",
+        "employer": "Any Service"
+    },
+    {
+        "name": "Инженер-сметчик",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98301254",
+        "employer": "Терминал Казахстан"
+    },
+    {
+        "name": "Юрисконсульт",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98798776",
+        "employer": "RSM UZBEKISTAN"
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 350000,
+            "to": 1000000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98697348",
+        "employer": "Region Rent Car"
+    },
+    {
+        "name": "Frontend-разработчик Junior",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98935408",
+        "employer": "Lead Profit"
+    },
+    {
+        "name": "Front-end разработчик junior",
+        "salary": {
+            "from": 30000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/94473404",
+        "employer": "Nti.team"
+    },
+    {
+        "name": "Администратор в магазин одежды",
+        "salary": {
+            "from": 90000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/95842574",
+        "employer": "Валова Екатерина Дмитриевна"
+    },
+    {
+        "name": "Менеджер-дизайнер по мебели для кухни",
+        "salary": {
+            "from": 95000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98321865",
+        "employer": "ARDI"
+    },
+    {
+        "name": "Персональный водитель (бизнес)",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98905607",
+        "employer": "Управляющая компания ВСВ"
+    },
+    {
+        "name": "Мастер-портной в Дом Моды",
+        "salary": {
+            "from": 120000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97721573",
+        "employer": "Мастерская классического костюма"
+    },
+    {
+        "name": "Дивизионный менеджер по продажам",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98918122",
+        "employer": "JTI"
+    },
+    {
+        "name": "Личный водитель для руководителя на автомобиле компании (Mercedes-Benz Gls x167)",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98940716",
+        "employer": "ВЕЛМАР"
+    },
+    {
+        "name": "Руководитель направления службы безопасности",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98893158",
+        "employer": "СУЭК, Сибирская Угольная Энергетическая Компания"
+    },
+    {
+        "name": "Сборщик / монтажник на склад",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97173820",
+        "employer": "Витрина плюс"
+    },
+    {
+        "name": "Администратор",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98816766",
+        "employer": "ADD System"
+    },
+    {
+        "name": "Управляющий директор",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98952882",
+        "employer": "Протэк"
+    },
+    {
+        "name": "Водитель офисный",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/87762351",
+        "employer": "Управляющая компания РОСНАНО"
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 350000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98917020",
+        "employer": "CrmTrade.kz"
+    },
+    {
+        "name": "Администратор аккаунта (косметология)",
+        "salary": {
+            "from": 40000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97883573",
+        "employer": "BANGCOOK"
+    },
+    {
+        "name": "Региональный менеджер по развитию в Азербайджане",
+        "salary": {
+            "from": 1000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98899516",
+        "employer": "Амплитуда"
+    },
+    {
+        "name": "Региональный торговый представитель",
+        "salary": {
+            "from": 4000000,
+            "to": 15000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98700321",
+        "employer": "HOUSEHOLD PROTECTION LIMITED"
+    },
+    {
+        "name": "Сотрудник службы безопасности",
+        "salary": {
+            "from": null,
+            "to": 175000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/82300596",
+        "employer": "Московский метрополитен"
+    },
+    {
+        "name": "Оператор 1C",
+        "salary": {
+            "from": 45000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98916160",
+        "employer": "Тимоша"
+    },
+    {
+        "name": "Администратор офиса",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98909693",
+        "employer": "HOME Group"
+    },
+    {
+        "name": "Инспектор Контрольно-счетной палаты Мурманской области",
+        "salary": {
+            "from": 63000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98919019",
+        "employer": "Контрольно-счетная палата Мурманской области"
+    },
+    {
+        "name": "Водитель с личным автомобилем",
+        "salary": {
+            "from": 6000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98903590",
+        "employer": "SPEY MEDICAL LTD"
+    },
+    {
+        "name": "Продавец - консультант в свадебный салон / Администратор магазина",
+        "salary": {
+            "from": 35000,
+            "to": 65000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97084845",
+        "employer": "UniRenter"
+    },
+    {
+        "name": "Продавец-консультант в магазин продажи мармелада",
+        "salary": {
+            "from": 1200,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98138910",
+        "employer": "Дом Мармелада"
+    },
+    {
+        "name": "Заместитель директора",
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98935304",
+        "employer": "Свердловский завод безалкогольных напитков Тонус"
+    },
+    {
+        "name": "Специалист по работе c ecxel",
+        "salary": {
+            "from": 25000,
+            "to": 25000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/96966852",
+        "employer": "Спектр"
+    },
+    {
+        "name": "Военнослужащий по контракту",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97350663",
+        "employer": "В/ч 2320"
+    },
+    {
+        "name": "Ассистент руководителя",
+        "salary": {
+            "from": 5000000,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/97696198",
+        "employer": "ASIA MAX EXPORT"
+    },
+    {
+        "name": "Секретарь на ресепшен",
+        "salary": {
+            "from": 500000,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98824464",
+        "employer": "Лофтис"
+    },
+    {
+        "name": "Директор по информационным технологиям/CIO",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98962229",
+        "employer": "Фаворит, Международный кадровый центр"
+    },
+    {
+        "name": "Менеджер ресторана",
+        "salary": {
+            "from": 85000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/93103456",
+        "employer": "Ресторер"
+    },
+    {
+        "name": "Директор по экономике",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98912548",
+        "employer": "РУСЭЛ"
+    },
+    {
+        "name": "Сборщик заказов с Каспи Магазина",
+        "salary": {
+            "from": 200000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98697521",
+        "employer": "Glama, ТОО"
+    },
+    {
+        "name": "Водитель персональный в семью",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98786715",
+        "employer": "Юпитер"
+    },
+    {
+        "name": "Оператор ввода данных/контент-менеджер",
+        "salary": {
+            "from": 45000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97348905",
+        "employer": "НАНО"
+    },
+    {
+        "name": "Администратор в детский учебный центр",
+        "salary": {
+            "from": null,
+            "to": 3500000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98307054",
+        "employer": "Katta tanaffus"
+    },
+    {
+        "name": "Менеджер пункта выдачи заказов Wildberries",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98411755",
+        "employer": "NurEl"
+    },
+    {
+        "name": "Исполнительный директор",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98785694",
+        "employer": "Мозен"
+    },
+    {
+        "name": "Векторный иллюстратор",
+        "salary": {
+            "from": 900,
+            "to": 1200,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97218097",
+        "employer": "Myteam.art"
+    },
+    {
+        "name": "Водитель офисный",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98820839",
+        "employer": "Агрокомплекс Калининский"
+    },
+    {
+        "name": "Кассир в кофейню “ZEBRA COFFEE”",
+        "salary": {
+            "from": 300000,
+            "to": 370000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97503908",
+        "employer": "DINA"
+    },
+    {
+        "name": "Персональный водитель на 5/2,КП Гринфилд",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98830202",
+        "employer": "Адам и Ева и К"
+    },
+    {
+        "name": "Бариста",
+        "salary": {
+            "from": 8000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98115740",
+        "employer": "Мухамеджанова"
+    },
+    {
+        "name": "Водитель легкового автомобиля",
+        "salary": {
+            "from": 60600,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98901211",
+        "employer": "Агропромкомплектация"
+    },
+    {
+        "name": "Оператор производственной линии",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98083961",
+        "employer": "Hyundai Mobis (МОБИС МОДУЛЬ СНГ)"
+    },
+    {
+        "name": "Менеджер пункта выдачи заказов Wildberries",
+        "salary": {
+            "from": 150000,
+            "to": 157500,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97380464",
+        "employer": "SIMPLE POINT (СИМПЛ ПОИНТ)"
+    },
+    {
+        "name": "Заместитель главного бухгалтера по налоговому учету. Рабочее место находится в г.Усть-Каменогорск",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98759392",
+        "employer": "КАЗЦВЕТМЕТРЕМОНТ"
+    }
+]
